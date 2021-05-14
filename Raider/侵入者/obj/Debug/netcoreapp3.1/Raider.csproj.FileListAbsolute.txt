@@ -1,0 +1,13 @@
+C:\Users\12462\source\repos\Raider\侵入者\bin\Debug\netcoreapp3.1\Raider.exe
+C:\Users\12462\source\repos\Raider\侵入者\bin\Debug\netcoreapp3.1\Raider.deps.json
+C:\Users\12462\source\repos\Raider\侵入者\bin\Debug\netcoreapp3.1\Raider.runtimeconfig.json
+C:\Users\12462\source\repos\Raider\侵入者\bin\Debug\netcoreapp3.1\Raider.runtimeconfig.dev.json
+C:\Users\12462\source\repos\Raider\侵入者\bin\Debug\netcoreapp3.1\Raider.dll
+C:\Users\12462\source\repos\Raider\侵入者\bin\Debug\netcoreapp3.1\Raider.pdb
+C:\Users\12462\source\repos\Raider\侵入者\obj\Debug\netcoreapp3.1\Raider.csprojAssemblyReference.cache
+C:\Users\12462\source\repos\Raider\侵入者\obj\Debug\netcoreapp3.1\Raider.AssemblyInfoInputs.cache
+C:\Users\12462\source\repos\Raider\侵入者\obj\Debug\netcoreapp3.1\Raider.AssemblyInfo.cs
+C:\Users\12462\source\repos\Raider\侵入者\obj\Debug\netcoreapp3.1\Raider.csproj.CoreCompileInputs.cache
+C:\Users\12462\source\repos\Raider\侵入者\obj\Debug\netcoreapp3.1\Raider.dll
+C:\Users\12462\source\repos\Raider\侵入者\obj\Debug\netcoreapp3.1\Raider.pdb
+C:\Users\12462\source\repos\Raider\侵入者\obj\Debug\netcoreapp3.1\Raider.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\12462\source\repos\001\类\bin\Debug\netcoreapp3.1\类.exe
+C:\Users\12462\source\repos\001\类\bin\Debug\netcoreapp3.1\类.deps.json
+C:\Users\12462\source\repos\001\类\bin\Debug\netcoreapp3.1\类.runtimeconfig.json
+C:\Users\12462\source\repos\001\类\bin\Debug\netcoreapp3.1\类.runtimeconfig.dev.json
+C:\Users\12462\source\repos\001\类\bin\Debug\netcoreapp3.1\类.dll
+C:\Users\12462\source\repos\001\类\bin\Debug\netcoreapp3.1\类.pdb
+C:\Users\12462\source\repos\001\类\obj\Debug\netcoreapp3.1\类.csprojAssemblyReference.cache
+C:\Users\12462\source\repos\001\类\obj\Debug\netcoreapp3.1\类.AssemblyInfoInputs.cache
+C:\Users\12462\source\repos\001\类\obj\Debug\netcoreapp3.1\类.AssemblyInfo.cs
+C:\Users\12462\source\repos\001\类\obj\Debug\netcoreapp3.1\类.csproj.CoreCompileInputs.cache
+C:\Users\12462\source\repos\001\类\obj\Debug\netcoreapp3.1\类.dll
+C:\Users\12462\source\repos\001\类\obj\Debug\netcoreapp3.1\类.pdb
+C:\Users\12462\source\repos\001\类\obj\Debug\netcoreapp3.1\类.genruntimeconfig.cache

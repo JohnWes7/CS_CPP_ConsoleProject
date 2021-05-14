@@ -1,0 +1,13 @@
+C:\Users\12462\source\repos\001\虚方法\bin\Debug\netcoreapp3.1\虚方法.exe
+C:\Users\12462\source\repos\001\虚方法\bin\Debug\netcoreapp3.1\虚方法.deps.json
+C:\Users\12462\source\repos\001\虚方法\bin\Debug\netcoreapp3.1\虚方法.runtimeconfig.json
+C:\Users\12462\source\repos\001\虚方法\bin\Debug\netcoreapp3.1\虚方法.runtimeconfig.dev.json
+C:\Users\12462\source\repos\001\虚方法\bin\Debug\netcoreapp3.1\虚方法.dll
+C:\Users\12462\source\repos\001\虚方法\bin\Debug\netcoreapp3.1\虚方法.pdb
+C:\Users\12462\source\repos\001\虚方法\obj\Debug\netcoreapp3.1\虚方法.csprojAssemblyReference.cache
+C:\Users\12462\source\repos\001\虚方法\obj\Debug\netcoreapp3.1\虚方法.AssemblyInfoInputs.cache
+C:\Users\12462\source\repos\001\虚方法\obj\Debug\netcoreapp3.1\虚方法.AssemblyInfo.cs
+C:\Users\12462\source\repos\001\虚方法\obj\Debug\netcoreapp3.1\虚方法.csproj.CoreCompileInputs.cache
+C:\Users\12462\source\repos\001\虚方法\obj\Debug\netcoreapp3.1\虚方法.dll
+C:\Users\12462\source\repos\001\虚方法\obj\Debug\netcoreapp3.1\虚方法.pdb
+C:\Users\12462\source\repos\001\虚方法\obj\Debug\netcoreapp3.1\虚方法.genruntimeconfig.cache

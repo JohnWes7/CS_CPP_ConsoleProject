@@ -1,0 +1,13 @@
+C:\Users\12462\source\repos\001\委托\bin\Debug\netcoreapp3.1\委托.exe
+C:\Users\12462\source\repos\001\委托\bin\Debug\netcoreapp3.1\委托.deps.json
+C:\Users\12462\source\repos\001\委托\bin\Debug\netcoreapp3.1\委托.runtimeconfig.json
+C:\Users\12462\source\repos\001\委托\bin\Debug\netcoreapp3.1\委托.runtimeconfig.dev.json
+C:\Users\12462\source\repos\001\委托\bin\Debug\netcoreapp3.1\委托.dll
+C:\Users\12462\source\repos\001\委托\bin\Debug\netcoreapp3.1\委托.pdb
+C:\Users\12462\source\repos\001\委托\obj\Debug\netcoreapp3.1\委托.csprojAssemblyReference.cache
+C:\Users\12462\source\repos\001\委托\obj\Debug\netcoreapp3.1\委托.AssemblyInfoInputs.cache
+C:\Users\12462\source\repos\001\委托\obj\Debug\netcoreapp3.1\委托.AssemblyInfo.cs
+C:\Users\12462\source\repos\001\委托\obj\Debug\netcoreapp3.1\委托.csproj.CoreCompileInputs.cache
+C:\Users\12462\source\repos\001\委托\obj\Debug\netcoreapp3.1\委托.dll
+C:\Users\12462\source\repos\001\委托\obj\Debug\netcoreapp3.1\委托.pdb
+C:\Users\12462\source\repos\001\委托\obj\Debug\netcoreapp3.1\委托.genruntimeconfig.cache

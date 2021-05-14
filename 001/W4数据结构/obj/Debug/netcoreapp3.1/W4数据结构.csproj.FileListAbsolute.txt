@@ -1,0 +1,13 @@
+C:\Users\12462\source\repos\001\W4数据结构\bin\Debug\netcoreapp3.1\W4数据结构.exe
+C:\Users\12462\source\repos\001\W4数据结构\bin\Debug\netcoreapp3.1\W4数据结构.deps.json
+C:\Users\12462\source\repos\001\W4数据结构\bin\Debug\netcoreapp3.1\W4数据结构.runtimeconfig.json
+C:\Users\12462\source\repos\001\W4数据结构\bin\Debug\netcoreapp3.1\W4数据结构.runtimeconfig.dev.json
+C:\Users\12462\source\repos\001\W4数据结构\bin\Debug\netcoreapp3.1\W4数据结构.dll
+C:\Users\12462\source\repos\001\W4数据结构\bin\Debug\netcoreapp3.1\W4数据结构.pdb
+C:\Users\12462\source\repos\001\W4数据结构\obj\Debug\netcoreapp3.1\W4数据结构.csprojAssemblyReference.cache
+C:\Users\12462\source\repos\001\W4数据结构\obj\Debug\netcoreapp3.1\W4数据结构.AssemblyInfoInputs.cache
+C:\Users\12462\source\repos\001\W4数据结构\obj\Debug\netcoreapp3.1\W4数据结构.AssemblyInfo.cs
+C:\Users\12462\source\repos\001\W4数据结构\obj\Debug\netcoreapp3.1\W4数据结构.csproj.CoreCompileInputs.cache
+C:\Users\12462\source\repos\001\W4数据结构\obj\Debug\netcoreapp3.1\W4数据结构.dll
+C:\Users\12462\source\repos\001\W4数据结构\obj\Debug\netcoreapp3.1\W4数据结构.pdb
+C:\Users\12462\source\repos\001\W4数据结构\obj\Debug\netcoreapp3.1\W4数据结构.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+C:\Users\12462\source\repos\001\字典泛型栈泛型队列\bin\Debug\字典泛型栈泛型队列.exe.config
+C:\Users\12462\source\repos\001\字典泛型栈泛型队列\bin\Debug\字典泛型栈泛型队列.exe
+C:\Users\12462\source\repos\001\字典泛型栈泛型队列\bin\Debug\字典泛型栈泛型队列.pdb
+C:\Users\12462\source\repos\001\字典泛型栈泛型队列\obj\Debug\字典泛型栈泛型队列.csprojAssemblyReference.cache
+C:\Users\12462\source\repos\001\字典泛型栈泛型队列\obj\Debug\字典泛型栈泛型队列.csproj.CoreCompileInputs.cache
+C:\Users\12462\source\repos\001\字典泛型栈泛型队列\obj\Debug\字典泛型栈泛型队列.exe
+C:\Users\12462\source\repos\001\字典泛型栈泛型队列\obj\Debug\字典泛型栈泛型队列.pdb

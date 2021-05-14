@@ -1,0 +1,13 @@
+C:\Users\12462\source\repos\侵入者\侵入者\bin\Debug\netcoreapp3.1\侵入者.exe
+C:\Users\12462\source\repos\侵入者\侵入者\bin\Debug\netcoreapp3.1\侵入者.deps.json
+C:\Users\12462\source\repos\侵入者\侵入者\bin\Debug\netcoreapp3.1\侵入者.runtimeconfig.json
+C:\Users\12462\source\repos\侵入者\侵入者\bin\Debug\netcoreapp3.1\侵入者.runtimeconfig.dev.json
+C:\Users\12462\source\repos\侵入者\侵入者\bin\Debug\netcoreapp3.1\侵入者.dll
+C:\Users\12462\source\repos\侵入者\侵入者\bin\Debug\netcoreapp3.1\侵入者.pdb
+C:\Users\12462\source\repos\侵入者\侵入者\obj\Debug\netcoreapp3.1\侵入者.csprojAssemblyReference.cache
+C:\Users\12462\source\repos\侵入者\侵入者\obj\Debug\netcoreapp3.1\侵入者.AssemblyInfoInputs.cache
+C:\Users\12462\source\repos\侵入者\侵入者\obj\Debug\netcoreapp3.1\侵入者.AssemblyInfo.cs
+C:\Users\12462\source\repos\侵入者\侵入者\obj\Debug\netcoreapp3.1\侵入者.csproj.CoreCompileInputs.cache
+C:\Users\12462\source\repos\侵入者\侵入者\obj\Debug\netcoreapp3.1\侵入者.dll
+C:\Users\12462\source\repos\侵入者\侵入者\obj\Debug\netcoreapp3.1\侵入者.pdb
+C:\Users\12462\source\repos\侵入者\侵入者\obj\Debug\netcoreapp3.1\侵入者.genruntimeconfig.cache

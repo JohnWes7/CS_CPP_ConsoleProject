@@ -1,0 +1,13 @@
+C:\Users\12462\source\repos\001\第二周\bin\Debug\netcoreapp3.1\第二周.exe
+C:\Users\12462\source\repos\001\第二周\bin\Debug\netcoreapp3.1\第二周.deps.json
+C:\Users\12462\source\repos\001\第二周\bin\Debug\netcoreapp3.1\第二周.runtimeconfig.json
+C:\Users\12462\source\repos\001\第二周\bin\Debug\netcoreapp3.1\第二周.runtimeconfig.dev.json
+C:\Users\12462\source\repos\001\第二周\bin\Debug\netcoreapp3.1\第二周.dll
+C:\Users\12462\source\repos\001\第二周\bin\Debug\netcoreapp3.1\第二周.pdb
+C:\Users\12462\source\repos\001\第二周\obj\Debug\netcoreapp3.1\第二周.AssemblyInfoInputs.cache
+C:\Users\12462\source\repos\001\第二周\obj\Debug\netcoreapp3.1\第二周.AssemblyInfo.cs
+C:\Users\12462\source\repos\001\第二周\obj\Debug\netcoreapp3.1\第二周.csproj.CoreCompileInputs.cache
+C:\Users\12462\source\repos\001\第二周\obj\Debug\netcoreapp3.1\第二周.dll
+C:\Users\12462\source\repos\001\第二周\obj\Debug\netcoreapp3.1\第二周.pdb
+C:\Users\12462\source\repos\001\第二周\obj\Debug\netcoreapp3.1\第二周.genruntimeconfig.cache
+C:\Users\12462\source\repos\001\第二周\obj\Debug\netcoreapp3.1\第二周.csprojAssemblyReference.cache

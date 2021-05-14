@@ -1,0 +1,13 @@
+C:\Users\12462\source\repos\001\ACM\bin\Debug\netcoreapp3.1\ACM.exe
+C:\Users\12462\source\repos\001\ACM\bin\Debug\netcoreapp3.1\ACM.deps.json
+C:\Users\12462\source\repos\001\ACM\bin\Debug\netcoreapp3.1\ACM.runtimeconfig.json
+C:\Users\12462\source\repos\001\ACM\bin\Debug\netcoreapp3.1\ACM.runtimeconfig.dev.json
+C:\Users\12462\source\repos\001\ACM\bin\Debug\netcoreapp3.1\ACM.dll
+C:\Users\12462\source\repos\001\ACM\bin\Debug\netcoreapp3.1\ACM.pdb
+C:\Users\12462\source\repos\001\ACM\obj\Debug\netcoreapp3.1\ACM.csprojAssemblyReference.cache
+C:\Users\12462\source\repos\001\ACM\obj\Debug\netcoreapp3.1\ACM.AssemblyInfoInputs.cache
+C:\Users\12462\source\repos\001\ACM\obj\Debug\netcoreapp3.1\ACM.AssemblyInfo.cs
+C:\Users\12462\source\repos\001\ACM\obj\Debug\netcoreapp3.1\ACM.csproj.CoreCompileInputs.cache
+C:\Users\12462\source\repos\001\ACM\obj\Debug\netcoreapp3.1\ACM.dll
+C:\Users\12462\source\repos\001\ACM\obj\Debug\netcoreapp3.1\ACM.pdb
+C:\Users\12462\source\repos\001\ACM\obj\Debug\netcoreapp3.1\ACM.genruntimeconfig.cache

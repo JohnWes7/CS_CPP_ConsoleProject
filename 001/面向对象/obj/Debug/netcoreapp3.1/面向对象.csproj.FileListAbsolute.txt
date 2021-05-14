@@ -1,0 +1,13 @@
+C:\Users\12462\source\repos\001\面向对象\bin\Debug\netcoreapp3.1\面向对象.exe
+C:\Users\12462\source\repos\001\面向对象\bin\Debug\netcoreapp3.1\面向对象.deps.json
+C:\Users\12462\source\repos\001\面向对象\bin\Debug\netcoreapp3.1\面向对象.runtimeconfig.json
+C:\Users\12462\source\repos\001\面向对象\bin\Debug\netcoreapp3.1\面向对象.runtimeconfig.dev.json
+C:\Users\12462\source\repos\001\面向对象\bin\Debug\netcoreapp3.1\面向对象.dll
+C:\Users\12462\source\repos\001\面向对象\bin\Debug\netcoreapp3.1\面向对象.pdb
+C:\Users\12462\source\repos\001\面向对象\obj\Debug\netcoreapp3.1\面向对象.AssemblyInfoInputs.cache
+C:\Users\12462\source\repos\001\面向对象\obj\Debug\netcoreapp3.1\面向对象.AssemblyInfo.cs
+C:\Users\12462\source\repos\001\面向对象\obj\Debug\netcoreapp3.1\面向对象.csproj.CoreCompileInputs.cache
+C:\Users\12462\source\repos\001\面向对象\obj\Debug\netcoreapp3.1\面向对象.dll
+C:\Users\12462\source\repos\001\面向对象\obj\Debug\netcoreapp3.1\面向对象.pdb
+C:\Users\12462\source\repos\001\面向对象\obj\Debug\netcoreapp3.1\面向对象.genruntimeconfig.cache
+C:\Users\12462\source\repos\001\面向对象\obj\Debug\netcoreapp3.1\面向对象.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\12462\source\repos\001\数据结构和变量\bin\Debug\netcoreapp3.1\数据结构和变量.exe
+C:\Users\12462\source\repos\001\数据结构和变量\bin\Debug\netcoreapp3.1\数据结构和变量.deps.json
+C:\Users\12462\source\repos\001\数据结构和变量\bin\Debug\netcoreapp3.1\数据结构和变量.runtimeconfig.json
+C:\Users\12462\source\repos\001\数据结构和变量\bin\Debug\netcoreapp3.1\数据结构和变量.runtimeconfig.dev.json
+C:\Users\12462\source\repos\001\数据结构和变量\bin\Debug\netcoreapp3.1\数据结构和变量.dll
+C:\Users\12462\source\repos\001\数据结构和变量\bin\Debug\netcoreapp3.1\数据结构和变量.pdb
+C:\Users\12462\source\repos\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.csprojAssemblyReference.cache
+C:\Users\12462\source\repos\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.AssemblyInfoInputs.cache
+C:\Users\12462\source\repos\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.AssemblyInfo.cs
+C:\Users\12462\source\repos\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.csproj.CoreCompileInputs.cache
+C:\Users\12462\source\repos\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.dll
+C:\Users\12462\source\repos\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.pdb
+C:\Users\12462\source\repos\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.genruntimeconfig.cache

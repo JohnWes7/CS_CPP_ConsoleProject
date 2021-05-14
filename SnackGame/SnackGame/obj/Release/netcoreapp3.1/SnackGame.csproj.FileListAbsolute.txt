@@ -1,0 +1,13 @@
+C:\Users\12462\source\repos\SnackGame\SnackGame\bin\Release\netcoreapp3.1\SnackGame.exe
+C:\Users\12462\source\repos\SnackGame\SnackGame\bin\Release\netcoreapp3.1\SnackGame.deps.json
+C:\Users\12462\source\repos\SnackGame\SnackGame\bin\Release\netcoreapp3.1\SnackGame.runtimeconfig.json
+C:\Users\12462\source\repos\SnackGame\SnackGame\bin\Release\netcoreapp3.1\SnackGame.runtimeconfig.dev.json
+C:\Users\12462\source\repos\SnackGame\SnackGame\bin\Release\netcoreapp3.1\SnackGame.dll
+C:\Users\12462\source\repos\SnackGame\SnackGame\bin\Release\netcoreapp3.1\SnackGame.pdb
+C:\Users\12462\source\repos\SnackGame\SnackGame\obj\Release\netcoreapp3.1\SnackGame.csprojAssemblyReference.cache
+C:\Users\12462\source\repos\SnackGame\SnackGame\obj\Release\netcoreapp3.1\SnackGame.AssemblyInfoInputs.cache
+C:\Users\12462\source\repos\SnackGame\SnackGame\obj\Release\netcoreapp3.1\SnackGame.AssemblyInfo.cs
+C:\Users\12462\source\repos\SnackGame\SnackGame\obj\Release\netcoreapp3.1\SnackGame.csproj.CoreCompileInputs.cache
+C:\Users\12462\source\repos\SnackGame\SnackGame\obj\Release\netcoreapp3.1\SnackGame.dll
+C:\Users\12462\source\repos\SnackGame\SnackGame\obj\Release\netcoreapp3.1\SnackGame.pdb
+C:\Users\12462\source\repos\SnackGame\SnackGame\obj\Release\netcoreapp3.1\SnackGame.genruntimeconfig.cache
