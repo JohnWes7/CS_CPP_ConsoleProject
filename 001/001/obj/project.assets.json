@@ -8,7 +8,7 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\12462\\.nuget\\packages\\": {},
+    "C:\\Users\\Johnwest\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
@@ -17,14 +17,14 @@
       "projectUniqueName": "E:\\CS_CPP_ConsoleProject\\001\\001\\001.csproj",
       "projectName": "001",
       "projectPath": "E:\\CS_CPP_ConsoleProject\\001\\001\\001.csproj",
-      "packagesPath": "C:\\Users\\12462\\.nuget\\packages\\",
+      "packagesPath": "C:\\Users\\Johnwest\\.nuget\\packages\\",
       "outputPath": "E:\\CS_CPP_ConsoleProject\\001\\001\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\12462\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Johnwest\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

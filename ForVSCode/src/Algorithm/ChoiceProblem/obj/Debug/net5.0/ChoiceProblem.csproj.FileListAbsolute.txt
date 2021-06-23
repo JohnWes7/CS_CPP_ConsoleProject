@@ -1,0 +1,16 @@
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\bin\Debug\net5.0\ChoiceProblem.exe
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\bin\Debug\net5.0\ChoiceProblem.deps.json
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\bin\Debug\net5.0\ChoiceProblem.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\bin\Debug\net5.0\ChoiceProblem.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\bin\Debug\net5.0\ChoiceProblem.dll
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\bin\Debug\net5.0\ref\ChoiceProblem.dll
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\bin\Debug\net5.0\ChoiceProblem.pdb
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\obj\Debug\net5.0\ChoiceProblem.csprojAssemblyReference.cache
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\obj\Debug\net5.0\ChoiceProblem.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\obj\Debug\net5.0\ChoiceProblem.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\obj\Debug\net5.0\ChoiceProblem.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\obj\Debug\net5.0\ChoiceProblem.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\obj\Debug\net5.0\ChoiceProblem.dll
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\obj\Debug\net5.0\ref\ChoiceProblem.dll
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\obj\Debug\net5.0\ChoiceProblem.pdb
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\ChoiceProblem\obj\Debug\net5.0\ChoiceProblem.genruntimeconfig.cache

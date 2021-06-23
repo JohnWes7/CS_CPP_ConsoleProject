@@ -11,3 +11,16 @@ C:\Users\12462\source\repos\001\out,ref\obj\Debug\netcoreapp3.1\out,ref.dll
 C:\Users\12462\source\repos\001\out,ref\obj\Debug\netcoreapp3.1\out,ref.pdb
 C:\Users\12462\source\repos\001\out,ref\obj\Debug\netcoreapp3.1\out,ref.genruntimeconfig.cache
 C:\Users\12462\source\repos\001\out,ref\obj\Debug\netcoreapp3.1\out,ref.csprojAssemblyReference.cache
+E:\CS_CPP_ConsoleProject\001\out,ref\bin\Debug\netcoreapp3.1\out,ref.exe
+E:\CS_CPP_ConsoleProject\001\out,ref\bin\Debug\netcoreapp3.1\out,ref.deps.json
+E:\CS_CPP_ConsoleProject\001\out,ref\bin\Debug\netcoreapp3.1\out,ref.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\001\out,ref\bin\Debug\netcoreapp3.1\out,ref.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\001\out,ref\bin\Debug\netcoreapp3.1\out,ref.dll
+E:\CS_CPP_ConsoleProject\001\out,ref\bin\Debug\netcoreapp3.1\out,ref.pdb
+E:\CS_CPP_ConsoleProject\001\out,ref\obj\Debug\netcoreapp3.1\out,ref.csprojAssemblyReference.cache
+E:\CS_CPP_ConsoleProject\001\out,ref\obj\Debug\netcoreapp3.1\out,ref.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\001\out,ref\obj\Debug\netcoreapp3.1\out,ref.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\001\out,ref\obj\Debug\netcoreapp3.1\out,ref.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\001\out,ref\obj\Debug\netcoreapp3.1\out,ref.dll
+E:\CS_CPP_ConsoleProject\001\out,ref\obj\Debug\netcoreapp3.1\out,ref.pdb
+E:\CS_CPP_ConsoleProject\001\out,ref\obj\Debug\netcoreapp3.1\out,ref.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\bin\Debug\net5.0\Binarytree.exe
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\bin\Debug\net5.0\Binarytree.deps.json
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\bin\Debug\net5.0\Binarytree.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\bin\Debug\net5.0\Binarytree.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\bin\Debug\net5.0\Binarytree.dll
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\bin\Debug\net5.0\ref\Binarytree.dll
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\bin\Debug\net5.0\Binarytree.pdb
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\obj\Debug\net5.0\Binarytree.csprojAssemblyReference.cache
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\obj\Debug\net5.0\Binarytree.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\obj\Debug\net5.0\Binarytree.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\obj\Debug\net5.0\Binarytree.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\obj\Debug\net5.0\Binarytree.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\obj\Debug\net5.0\Binarytree.dll
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\obj\Debug\net5.0\ref\Binarytree.dll
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\obj\Debug\net5.0\Binarytree.pdb
+E:\CS_CPP_ConsoleProject\ForVSCode\src\Algorithm\Binarytree\obj\Debug\net5.0\Binarytree.genruntimeconfig.cache

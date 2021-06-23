@@ -49,6 +49,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryCatch", "TryCatch\TryCat
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "十进制转二进制", "十进制转二进制\十进制转二进制.csproj", "{1CC05C91-ECCA-40E6-98ED-5075D9E602A7}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestField", "TestField\TestField.csproj", "{5145E145-0BB2-4987-8579-7BA7F22DFA37}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -335,6 +337,18 @@ Global
 		{1CC05C91-ECCA-40E6-98ED-5075D9E602A7}.Release|x64.Build.0 = Release|Any CPU
 		{1CC05C91-ECCA-40E6-98ED-5075D9E602A7}.Release|x86.ActiveCfg = Release|Any CPU
 		{1CC05C91-ECCA-40E6-98ED-5075D9E602A7}.Release|x86.Build.0 = Release|Any CPU
+		{5145E145-0BB2-4987-8579-7BA7F22DFA37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5145E145-0BB2-4987-8579-7BA7F22DFA37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5145E145-0BB2-4987-8579-7BA7F22DFA37}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5145E145-0BB2-4987-8579-7BA7F22DFA37}.Debug|x64.Build.0 = Debug|Any CPU
+		{5145E145-0BB2-4987-8579-7BA7F22DFA37}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5145E145-0BB2-4987-8579-7BA7F22DFA37}.Debug|x86.Build.0 = Debug|Any CPU
+		{5145E145-0BB2-4987-8579-7BA7F22DFA37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5145E145-0BB2-4987-8579-7BA7F22DFA37}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5145E145-0BB2-4987-8579-7BA7F22DFA37}.Release|x64.ActiveCfg = Release|Any CPU
+		{5145E145-0BB2-4987-8579-7BA7F22DFA37}.Release|x64.Build.0 = Release|Any CPU
+		{5145E145-0BB2-4987-8579-7BA7F22DFA37}.Release|x86.ActiveCfg = Release|Any CPU
+		{5145E145-0BB2-4987-8579-7BA7F22DFA37}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
