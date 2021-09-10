@@ -10,14 +10,14 @@
         "projectUniqueName": "E:\\CS_CPP_ConsoleProject\\001\\运算符\\运算符.csproj",
         "projectName": "运算符",
         "projectPath": "E:\\CS_CPP_ConsoleProject\\001\\运算符\\运算符.csproj",
-        "packagesPath": "C:\\Users\\Johnwest\\.nuget\\packages\\",
+        "packagesPath": "C:\\Users\\12462\\.nuget\\packages\\",
         "outputPath": "E:\\CS_CPP_ConsoleProject\\001\\运算符\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Johnwest\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\12462\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

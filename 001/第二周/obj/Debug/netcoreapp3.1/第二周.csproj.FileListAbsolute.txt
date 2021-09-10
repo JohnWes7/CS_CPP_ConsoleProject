@@ -11,3 +11,15 @@ C:\Users\12462\source\repos\001\第二周\obj\Debug\netcoreapp3.1\第二周.dll
 C:\Users\12462\source\repos\001\第二周\obj\Debug\netcoreapp3.1\第二周.pdb
 C:\Users\12462\source\repos\001\第二周\obj\Debug\netcoreapp3.1\第二周.genruntimeconfig.cache
 C:\Users\12462\source\repos\001\第二周\obj\Debug\netcoreapp3.1\第二周.csprojAssemblyReference.cache
+E:\CS_CPP_ConsoleProject\001\第二周\bin\Debug\netcoreapp3.1\第二周.exe
+E:\CS_CPP_ConsoleProject\001\第二周\bin\Debug\netcoreapp3.1\第二周.deps.json
+E:\CS_CPP_ConsoleProject\001\第二周\bin\Debug\netcoreapp3.1\第二周.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\001\第二周\bin\Debug\netcoreapp3.1\第二周.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\001\第二周\bin\Debug\netcoreapp3.1\第二周.dll
+E:\CS_CPP_ConsoleProject\001\第二周\bin\Debug\netcoreapp3.1\第二周.pdb
+E:\CS_CPP_ConsoleProject\001\第二周\obj\Debug\netcoreapp3.1\第二周.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\001\第二周\obj\Debug\netcoreapp3.1\第二周.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\001\第二周\obj\Debug\netcoreapp3.1\第二周.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\001\第二周\obj\Debug\netcoreapp3.1\第二周.dll
+E:\CS_CPP_ConsoleProject\001\第二周\obj\Debug\netcoreapp3.1\第二周.pdb
+E:\CS_CPP_ConsoleProject\001\第二周\obj\Debug\netcoreapp3.1\第二周.genruntimeconfig.cache

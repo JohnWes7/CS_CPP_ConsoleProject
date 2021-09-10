@@ -1,0 +1,6 @@
+E:\CS_CPP_ConsoleProject\Test_for_VS\Test\testStr\bin\Debug\testStr.exe.config
+E:\CS_CPP_ConsoleProject\Test_for_VS\Test\testStr\bin\Debug\testStr.exe
+E:\CS_CPP_ConsoleProject\Test_for_VS\Test\testStr\bin\Debug\testStr.pdb
+E:\CS_CPP_ConsoleProject\Test_for_VS\Test\testStr\obj\Debug\testStr.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\Test_for_VS\Test\testStr\obj\Debug\testStr.exe
+E:\CS_CPP_ConsoleProject\Test_for_VS\Test\testStr\obj\Debug\testStr.pdb

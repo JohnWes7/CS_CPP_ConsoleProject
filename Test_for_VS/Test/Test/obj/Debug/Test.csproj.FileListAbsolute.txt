@@ -1,0 +1,7 @@
+E:\CS_CPP_ConsoleProject\Test_for_VS\Test\Test\bin\Debug\Test.exe.config
+E:\CS_CPP_ConsoleProject\Test_for_VS\Test\Test\bin\Debug\Test.exe
+E:\CS_CPP_ConsoleProject\Test_for_VS\Test\Test\bin\Debug\Test.pdb
+E:\CS_CPP_ConsoleProject\Test_for_VS\Test\Test\obj\Debug\Test.csprojAssemblyReference.cache
+E:\CS_CPP_ConsoleProject\Test_for_VS\Test\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\Test_for_VS\Test\Test\obj\Debug\Test.exe
+E:\CS_CPP_ConsoleProject\Test_for_VS\Test\Test\obj\Debug\Test.pdb

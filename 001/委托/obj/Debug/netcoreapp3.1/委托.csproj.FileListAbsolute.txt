@@ -11,3 +11,15 @@ C:\Users\12462\source\repos\001\委托\obj\Debug\netcoreapp3.1\委托.csproj.Cor
 C:\Users\12462\source\repos\001\委托\obj\Debug\netcoreapp3.1\委托.dll
 C:\Users\12462\source\repos\001\委托\obj\Debug\netcoreapp3.1\委托.pdb
 C:\Users\12462\source\repos\001\委托\obj\Debug\netcoreapp3.1\委托.genruntimeconfig.cache
+E:\CS_CPP_ConsoleProject\001\委托\bin\Debug\netcoreapp3.1\委托.exe
+E:\CS_CPP_ConsoleProject\001\委托\bin\Debug\netcoreapp3.1\委托.deps.json
+E:\CS_CPP_ConsoleProject\001\委托\bin\Debug\netcoreapp3.1\委托.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\001\委托\bin\Debug\netcoreapp3.1\委托.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\001\委托\bin\Debug\netcoreapp3.1\委托.dll
+E:\CS_CPP_ConsoleProject\001\委托\bin\Debug\netcoreapp3.1\委托.pdb
+E:\CS_CPP_ConsoleProject\001\委托\obj\Debug\netcoreapp3.1\委托.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\001\委托\obj\Debug\netcoreapp3.1\委托.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\001\委托\obj\Debug\netcoreapp3.1\委托.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\001\委托\obj\Debug\netcoreapp3.1\委托.dll
+E:\CS_CPP_ConsoleProject\001\委托\obj\Debug\netcoreapp3.1\委托.pdb
+E:\CS_CPP_ConsoleProject\001\委托\obj\Debug\netcoreapp3.1\委托.genruntimeconfig.cache

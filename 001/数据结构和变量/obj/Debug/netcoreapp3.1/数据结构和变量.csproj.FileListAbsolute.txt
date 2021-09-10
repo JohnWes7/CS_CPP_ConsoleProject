@@ -11,3 +11,15 @@ C:\Users\12462\source\repos\001\数据结构和变量\obj\Debug\netcoreapp3.1\�
 C:\Users\12462\source\repos\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.dll
 C:\Users\12462\source\repos\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.pdb
 C:\Users\12462\source\repos\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.genruntimeconfig.cache
+E:\CS_CPP_ConsoleProject\001\数据结构和变量\bin\Debug\netcoreapp3.1\数据结构和变量.exe
+E:\CS_CPP_ConsoleProject\001\数据结构和变量\bin\Debug\netcoreapp3.1\数据结构和变量.deps.json
+E:\CS_CPP_ConsoleProject\001\数据结构和变量\bin\Debug\netcoreapp3.1\数据结构和变量.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\001\数据结构和变量\bin\Debug\netcoreapp3.1\数据结构和变量.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\001\数据结构和变量\bin\Debug\netcoreapp3.1\数据结构和变量.dll
+E:\CS_CPP_ConsoleProject\001\数据结构和变量\bin\Debug\netcoreapp3.1\数据结构和变量.pdb
+E:\CS_CPP_ConsoleProject\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.dll
+E:\CS_CPP_ConsoleProject\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.pdb
+E:\CS_CPP_ConsoleProject\001\数据结构和变量\obj\Debug\netcoreapp3.1\数据结构和变量.genruntimeconfig.cache

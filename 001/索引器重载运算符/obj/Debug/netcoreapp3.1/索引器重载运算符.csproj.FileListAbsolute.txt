@@ -11,3 +11,15 @@ C:\Users\12462\source\repos\001\索引器重载运算符\obj\Debug\netcoreapp3.1
 C:\Users\12462\source\repos\001\索引器重载运算符\obj\Debug\netcoreapp3.1\索引器重载运算符.dll
 C:\Users\12462\source\repos\001\索引器重载运算符\obj\Debug\netcoreapp3.1\索引器重载运算符.pdb
 C:\Users\12462\source\repos\001\索引器重载运算符\obj\Debug\netcoreapp3.1\索引器重载运算符.genruntimeconfig.cache
+E:\CS_CPP_ConsoleProject\001\索引器重载运算符\bin\Debug\netcoreapp3.1\索引器重载运算符.exe
+E:\CS_CPP_ConsoleProject\001\索引器重载运算符\bin\Debug\netcoreapp3.1\索引器重载运算符.deps.json
+E:\CS_CPP_ConsoleProject\001\索引器重载运算符\bin\Debug\netcoreapp3.1\索引器重载运算符.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\001\索引器重载运算符\bin\Debug\netcoreapp3.1\索引器重载运算符.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\001\索引器重载运算符\bin\Debug\netcoreapp3.1\索引器重载运算符.dll
+E:\CS_CPP_ConsoleProject\001\索引器重载运算符\bin\Debug\netcoreapp3.1\索引器重载运算符.pdb
+E:\CS_CPP_ConsoleProject\001\索引器重载运算符\obj\Debug\netcoreapp3.1\索引器重载运算符.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\001\索引器重载运算符\obj\Debug\netcoreapp3.1\索引器重载运算符.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\001\索引器重载运算符\obj\Debug\netcoreapp3.1\索引器重载运算符.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\001\索引器重载运算符\obj\Debug\netcoreapp3.1\索引器重载运算符.dll
+E:\CS_CPP_ConsoleProject\001\索引器重载运算符\obj\Debug\netcoreapp3.1\索引器重载运算符.pdb
+E:\CS_CPP_ConsoleProject\001\索引器重载运算符\obj\Debug\netcoreapp3.1\索引器重载运算符.genruntimeconfig.cache

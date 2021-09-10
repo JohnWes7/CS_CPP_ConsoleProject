@@ -1,0 +1,12 @@
+E:\CS_CPP_ConsoleProject\001\线程\bin\Debug\netcoreapp3.1\线程.exe
+E:\CS_CPP_ConsoleProject\001\线程\bin\Debug\netcoreapp3.1\线程.deps.json
+E:\CS_CPP_ConsoleProject\001\线程\bin\Debug\netcoreapp3.1\线程.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\001\线程\bin\Debug\netcoreapp3.1\线程.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\001\线程\bin\Debug\netcoreapp3.1\线程.dll
+E:\CS_CPP_ConsoleProject\001\线程\bin\Debug\netcoreapp3.1\线程.pdb
+E:\CS_CPP_ConsoleProject\001\线程\obj\Debug\netcoreapp3.1\线程.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\001\线程\obj\Debug\netcoreapp3.1\线程.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\001\线程\obj\Debug\netcoreapp3.1\线程.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\001\线程\obj\Debug\netcoreapp3.1\线程.dll
+E:\CS_CPP_ConsoleProject\001\线程\obj\Debug\netcoreapp3.1\线程.pdb
+E:\CS_CPP_ConsoleProject\001\线程\obj\Debug\netcoreapp3.1\线程.genruntimeconfig.cache

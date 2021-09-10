@@ -11,3 +11,15 @@ C:\Users\12462\source\repos\001\chess\obj\Debug\netcoreapp3.1\chess.csproj.CoreC
 C:\Users\12462\source\repos\001\chess\obj\Debug\netcoreapp3.1\chess.dll
 C:\Users\12462\source\repos\001\chess\obj\Debug\netcoreapp3.1\chess.pdb
 C:\Users\12462\source\repos\001\chess\obj\Debug\netcoreapp3.1\chess.genruntimeconfig.cache
+E:\CS_CPP_ConsoleProject\001\chess\bin\Debug\netcoreapp3.1\chess.exe
+E:\CS_CPP_ConsoleProject\001\chess\bin\Debug\netcoreapp3.1\chess.deps.json
+E:\CS_CPP_ConsoleProject\001\chess\bin\Debug\netcoreapp3.1\chess.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\001\chess\bin\Debug\netcoreapp3.1\chess.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\001\chess\bin\Debug\netcoreapp3.1\chess.dll
+E:\CS_CPP_ConsoleProject\001\chess\bin\Debug\netcoreapp3.1\chess.pdb
+E:\CS_CPP_ConsoleProject\001\chess\obj\Debug\netcoreapp3.1\chess.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\001\chess\obj\Debug\netcoreapp3.1\chess.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\001\chess\obj\Debug\netcoreapp3.1\chess.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\001\chess\obj\Debug\netcoreapp3.1\chess.dll
+E:\CS_CPP_ConsoleProject\001\chess\obj\Debug\netcoreapp3.1\chess.pdb
+E:\CS_CPP_ConsoleProject\001\chess\obj\Debug\netcoreapp3.1\chess.genruntimeconfig.cache

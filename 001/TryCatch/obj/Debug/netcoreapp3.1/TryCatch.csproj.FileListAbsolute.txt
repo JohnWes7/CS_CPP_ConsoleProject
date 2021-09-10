@@ -11,3 +11,15 @@ C:\Users\12462\source\repos\001\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.dll
 C:\Users\12462\source\repos\001\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.pdb
 C:\Users\12462\source\repos\001\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.genruntimeconfig.cache
 C:\Users\12462\source\repos\001\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csprojAssemblyReference.cache
+E:\CS_CPP_ConsoleProject\001\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.exe
+E:\CS_CPP_ConsoleProject\001\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.deps.json
+E:\CS_CPP_ConsoleProject\001\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\001\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\001\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.dll
+E:\CS_CPP_ConsoleProject\001\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.pdb
+E:\CS_CPP_ConsoleProject\001\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\001\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\001\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\001\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.dll
+E:\CS_CPP_ConsoleProject\001\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.pdb
+E:\CS_CPP_ConsoleProject\001\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.genruntimeconfig.cache

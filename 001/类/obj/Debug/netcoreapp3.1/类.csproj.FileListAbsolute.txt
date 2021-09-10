@@ -11,3 +11,15 @@ C:\Users\12462\source\repos\001\类\obj\Debug\netcoreapp3.1\类.csproj.CoreCompi
 C:\Users\12462\source\repos\001\类\obj\Debug\netcoreapp3.1\类.dll
 C:\Users\12462\source\repos\001\类\obj\Debug\netcoreapp3.1\类.pdb
 C:\Users\12462\source\repos\001\类\obj\Debug\netcoreapp3.1\类.genruntimeconfig.cache
+E:\CS_CPP_ConsoleProject\001\类\bin\Debug\netcoreapp3.1\类.exe
+E:\CS_CPP_ConsoleProject\001\类\bin\Debug\netcoreapp3.1\类.deps.json
+E:\CS_CPP_ConsoleProject\001\类\bin\Debug\netcoreapp3.1\类.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\001\类\bin\Debug\netcoreapp3.1\类.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\001\类\bin\Debug\netcoreapp3.1\类.dll
+E:\CS_CPP_ConsoleProject\001\类\bin\Debug\netcoreapp3.1\类.pdb
+E:\CS_CPP_ConsoleProject\001\类\obj\Debug\netcoreapp3.1\类.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\001\类\obj\Debug\netcoreapp3.1\类.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\001\类\obj\Debug\netcoreapp3.1\类.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\001\类\obj\Debug\netcoreapp3.1\类.dll
+E:\CS_CPP_ConsoleProject\001\类\obj\Debug\netcoreapp3.1\类.pdb
+E:\CS_CPP_ConsoleProject\001\类\obj\Debug\netcoreapp3.1\类.genruntimeconfig.cache

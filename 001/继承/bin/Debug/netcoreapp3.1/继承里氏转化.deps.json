@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "继承里氏转化/1.0.0": {
+        "dependencies": {
+          "面向对象": "1.0.0"
+        },
+        "runtime": {
+          "继承里氏转化.dll": {}
+        }
+      },
+      "面向对象/1.0.0": {
+        "runtime": {
+          "面向对象.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "继承里氏转化/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "面向对象/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

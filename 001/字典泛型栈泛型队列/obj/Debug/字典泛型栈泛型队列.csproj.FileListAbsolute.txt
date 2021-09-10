@@ -5,3 +5,10 @@ C:\Users\12462\source\repos\001\字典泛型栈泛型队列\obj\Debug\字典泛�
 C:\Users\12462\source\repos\001\字典泛型栈泛型队列\obj\Debug\字典泛型栈泛型队列.csproj.CoreCompileInputs.cache
 C:\Users\12462\source\repos\001\字典泛型栈泛型队列\obj\Debug\字典泛型栈泛型队列.exe
 C:\Users\12462\source\repos\001\字典泛型栈泛型队列\obj\Debug\字典泛型栈泛型队列.pdb
+E:\CS_CPP_ConsoleProject\001\字典泛型栈泛型队列\bin\Debug\字典泛型栈泛型队列.exe.config
+E:\CS_CPP_ConsoleProject\001\字典泛型栈泛型队列\bin\Debug\字典泛型栈泛型队列.exe
+E:\CS_CPP_ConsoleProject\001\字典泛型栈泛型队列\bin\Debug\字典泛型栈泛型队列.pdb
+E:\CS_CPP_ConsoleProject\001\字典泛型栈泛型队列\obj\Debug\字典泛型栈泛型队列.csprojAssemblyReference.cache
+E:\CS_CPP_ConsoleProject\001\字典泛型栈泛型队列\obj\Debug\字典泛型栈泛型队列.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\001\字典泛型栈泛型队列\obj\Debug\字典泛型栈泛型队列.exe
+E:\CS_CPP_ConsoleProject\001\字典泛型栈泛型队列\obj\Debug\字典泛型栈泛型队列.pdb

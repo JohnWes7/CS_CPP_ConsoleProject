@@ -7,11 +7,26 @@ namespace TestField
     {
         static void Main(string[] args)
         {
-            System.Collections.IList list = new List<int>();
+            //System.Collections.IList list = new List<int>();
             
-            test<string> a = new test<string>();
+            //test<string> a = new test<string>();
             
-            Console.ReadKey();
+            //Console.ReadKey();
+
+
+        }
+
+        static void teststr()
+        {
+            string name = "johnwest";
+            test_str_is_class(name);
+            Console.WriteLine(name);
+        }
+
+        static void test_str_is_class(string name)
+        {
+            name += "dawdwa";
+            Console.WriteLine(name);
         }
     }
 

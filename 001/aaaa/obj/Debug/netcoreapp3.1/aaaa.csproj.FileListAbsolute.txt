@@ -1,0 +1,13 @@
+E:\CS_CPP_ConsoleProject\001\aaaa\bin\Debug\netcoreapp3.1\aaaa.exe
+E:\CS_CPP_ConsoleProject\001\aaaa\bin\Debug\netcoreapp3.1\aaaa.deps.json
+E:\CS_CPP_ConsoleProject\001\aaaa\bin\Debug\netcoreapp3.1\aaaa.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\001\aaaa\bin\Debug\netcoreapp3.1\aaaa.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\001\aaaa\bin\Debug\netcoreapp3.1\aaaa.dll
+E:\CS_CPP_ConsoleProject\001\aaaa\bin\Debug\netcoreapp3.1\aaaa.pdb
+E:\CS_CPP_ConsoleProject\001\aaaa\obj\Debug\netcoreapp3.1\aaaa.csprojAssemblyReference.cache
+E:\CS_CPP_ConsoleProject\001\aaaa\obj\Debug\netcoreapp3.1\aaaa.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\001\aaaa\obj\Debug\netcoreapp3.1\aaaa.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\001\aaaa\obj\Debug\netcoreapp3.1\aaaa.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\001\aaaa\obj\Debug\netcoreapp3.1\aaaa.dll
+E:\CS_CPP_ConsoleProject\001\aaaa\obj\Debug\netcoreapp3.1\aaaa.pdb
+E:\CS_CPP_ConsoleProject\001\aaaa\obj\Debug\netcoreapp3.1\aaaa.genruntimeconfig.cache

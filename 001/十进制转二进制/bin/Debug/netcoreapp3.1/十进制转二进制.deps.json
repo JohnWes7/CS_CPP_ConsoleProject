@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "十进制转二进制/1.0.0": {
+        "runtime": {
+          "十进制转二进制.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "十进制转二进制/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

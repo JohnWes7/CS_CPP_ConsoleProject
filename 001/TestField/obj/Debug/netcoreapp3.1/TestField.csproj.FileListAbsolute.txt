@@ -1,0 +1,12 @@
+E:\CS_CPP_ConsoleProject\001\TestField\bin\Debug\netcoreapp3.1\TestField.exe
+E:\CS_CPP_ConsoleProject\001\TestField\bin\Debug\netcoreapp3.1\TestField.deps.json
+E:\CS_CPP_ConsoleProject\001\TestField\bin\Debug\netcoreapp3.1\TestField.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\001\TestField\bin\Debug\netcoreapp3.1\TestField.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\001\TestField\bin\Debug\netcoreapp3.1\TestField.dll
+E:\CS_CPP_ConsoleProject\001\TestField\bin\Debug\netcoreapp3.1\TestField.pdb
+E:\CS_CPP_ConsoleProject\001\TestField\obj\Debug\netcoreapp3.1\TestField.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\001\TestField\obj\Debug\netcoreapp3.1\TestField.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\001\TestField\obj\Debug\netcoreapp3.1\TestField.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\001\TestField\obj\Debug\netcoreapp3.1\TestField.dll
+E:\CS_CPP_ConsoleProject\001\TestField\obj\Debug\netcoreapp3.1\TestField.pdb
+E:\CS_CPP_ConsoleProject\001\TestField\obj\Debug\netcoreapp3.1\TestField.genruntimeconfig.cache
