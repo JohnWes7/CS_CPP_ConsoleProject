@@ -1,0 +1,17 @@
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\bin\Debug\netcoreapp3.1\txt_reader.exe
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\bin\Debug\netcoreapp3.1\txt_reader.deps.json
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\bin\Debug\netcoreapp3.1\txt_reader.runtimeconfig.json
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\bin\Debug\netcoreapp3.1\txt_reader.runtimeconfig.dev.json
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\bin\Debug\netcoreapp3.1\txt_reader.dll
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\bin\Debug\netcoreapp3.1\txt_reader.pdb
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\obj\Debug\netcoreapp3.1\txt_reader.csproj.AssemblyReference.cache
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\obj\Debug\netcoreapp3.1\txt_reader.Form1.resources
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\obj\Debug\netcoreapp3.1\txt_reader.csproj.GenerateResource.cache
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\obj\Debug\netcoreapp3.1\txt_reader.GeneratedMSBuildEditorConfig.editorconfig
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\obj\Debug\netcoreapp3.1\txt_reader.AssemblyInfoInputs.cache
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\obj\Debug\netcoreapp3.1\txt_reader.AssemblyInfo.cs
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\obj\Debug\netcoreapp3.1\txt_reader.csproj.CoreCompileInputs.cache
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\obj\Debug\netcoreapp3.1\txt_reader.dll
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\obj\Debug\netcoreapp3.1\txt_reader.pdb
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\obj\Debug\netcoreapp3.1\txt_reader.genruntimeconfig.cache
+E:\CS_CPP_ConsoleProject\txt_reader\txt_reader\obj\Debug\netcoreapp3.1\txt_reader.Form2.resources
