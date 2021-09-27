@@ -27,7 +27,7 @@ namespace txt_reader
         /// 获取或设置当前文件名筛选器字符串，该字符串决定对话框的“另存为文件类型”或“文件类型”框中出现的选择内容。
         /// </summary>
         private readonly string file_filter = "json files (*.json)|*.json|txt files (*.txt)|*.txt|All files (*.*)|*.*";
-        private Encoding encoding = Encoding.UTF8;
+        private Encoding DataEncoding { get => TXTData.CurrentEncoding; }
         private string name = "text_reader";
         private bool isChanged { get; set; } = false;
 
@@ -40,6 +40,11 @@ namespace txt_reader
             //更改初始化窗口名字
             UpdateFormName();
             isChanged = false;
+            
+            //for (int i = 0; i < Encoding.GetEncodings().Length; i++)
+            //{
+            //    Debug.WriteLine(Encoding.GetEncodings()[i].CodePage + "  " + Encoding.GetEncodings()[i].Name + "  " + Encoding.GetEncodings()[i].DisplayName);
+            //} 
         }
 
 
@@ -63,7 +68,7 @@ namespace txt_reader
                         //byte[] temp = System.Text.Encoding.UTF8.GetBytes(richTextBox1.Text);
                         //myStream.Write(temp, 0, temp.Length);
 
-                        Tool.write(myStream, richTextBox1.Text, this.encoding);
+                        Tool.write(myStream, richTextBox1.Text, this.DataEncoding);
 
                         myStream.Close();
                     }
@@ -197,6 +202,20 @@ namespace txt_reader
                 }
             }
         }
+        public void OnChangeEncoding()
+        {
+            if (this.current_file_path != null && File.Exists(current_file_path))
+            {
+                string str;
+                FileStream fileStream = new FileStream(current_file_path, FileMode.Open, FileAccess.Read);
+                if (Tool.reader(fileStream, out str, this.DataEncoding))
+                {
+                    richTextBox1.Text = str;
+                }
+            }
+
+            UpdateFormName();
+        }
 
 
         /// <summary>
@@ -233,7 +252,7 @@ namespace txt_reader
                     Stream fileStream = openFileDialog.OpenFile();
 
                     string str;
-                    Tool.reader(fileStream, out str, this.encoding);
+                    Tool.reader(fileStream, out str, this.DataEncoding);
 
                     richTextBox1.Text = str;
                 }
@@ -390,6 +409,12 @@ namespace txt_reader
         private void selectAllToolStripMenuItem_Click(object sender, EventArgs e)
         {
             richTextBox1.SelectAll();
+        }
+
+        private void optionsToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form2 form = new Form2();
+            form.ShowDialog(); 
         }
     }
 }
