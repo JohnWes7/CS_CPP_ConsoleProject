@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CS_CPP_ConsoleProject\\txt_reader\\txt_reader\\txt_reader.csproj",
+      "projectUniqueName": "E:\\CS_CPP_ConsoleProject\\txt_reader\\txt_reader\\txt_reader.csproj",
       "projectName": "txt_reader",
-      "projectPath": "D:\\CS_CPP_ConsoleProject\\txt_reader\\txt_reader\\txt_reader.csproj",
+      "projectPath": "E:\\CS_CPP_ConsoleProject\\txt_reader\\txt_reader\\txt_reader.csproj",
       "packagesPath": "C:\\Users\\12462\\.nuget\\packages\\",
-      "outputPath": "D:\\CS_CPP_ConsoleProject\\txt_reader\\txt_reader\\obj\\",
+      "outputPath": "E:\\CS_CPP_ConsoleProject\\txt_reader\\txt_reader\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
