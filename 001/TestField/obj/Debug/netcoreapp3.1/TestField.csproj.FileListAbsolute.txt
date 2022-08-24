@@ -10,3 +10,5 @@ E:\CS_CPP_ConsoleProject\001\TestField\obj\Debug\netcoreapp3.1\TestField.csproj.
 E:\CS_CPP_ConsoleProject\001\TestField\obj\Debug\netcoreapp3.1\TestField.dll
 E:\CS_CPP_ConsoleProject\001\TestField\obj\Debug\netcoreapp3.1\TestField.pdb
 E:\CS_CPP_ConsoleProject\001\TestField\obj\Debug\netcoreapp3.1\TestField.genruntimeconfig.cache
+E:\CS_CPP_ConsoleProject\001\TestField\obj\Debug\netcoreapp3.1\TestField.csproj.AssemblyReference.cache
+E:\CS_CPP_ConsoleProject\001\TestField\obj\Debug\netcoreapp3.1\TestField.GeneratedMSBuildEditorConfig.editorconfig
